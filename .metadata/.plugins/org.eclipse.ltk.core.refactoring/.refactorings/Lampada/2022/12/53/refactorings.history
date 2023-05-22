@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;estudando.oi&apos; to &apos;AcessDemo&apos;&#x0D;&#x0A;- Original project: &apos;PublicPrivate&apos;&#x0D;&#x0A;- Original element: &apos;estudando.oi&apos;&#x0D;&#x0A;- Renamed element: &apos;estudando.AcessDemo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;oi&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;estudando{oi.java[oi" matchStrategy="1" name="AcessDemo" qualified="false" references="true" similarDeclarations="false" stamp="1672333312989" textual="false" version="1.0"/>
+</session>

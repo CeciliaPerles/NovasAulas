@@ -1,0 +1,11 @@
+package projetos_aulas_arrays;
+
+public class manipulando_arrays {
+
+	public static void main(String[] args) {
+			
+		int [] numeros = {}
+
+	}
+
+}

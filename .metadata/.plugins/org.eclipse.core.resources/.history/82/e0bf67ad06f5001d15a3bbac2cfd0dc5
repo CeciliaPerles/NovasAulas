@@ -1,0 +1,16 @@
+package Desafios;
+
+import java.util.Scanner;
+
+public class DesafioWhileUm {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Digite:");
+		
+		
+		
+		sc.close();
+	}
+
+}

@@ -1,0 +1,23 @@
+package Desafios;
+
+import java.util.Scanner;
+
+public class WhileEstudo {
+
+	public static void main(String[] args) {
+
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Digite a nota: ");
+		
+		int nota;
+		int quantidadeDeNotas;
+		if(nota )
+		
+		
+		
+		
+		
+		sc.close();
+	}
+
+}

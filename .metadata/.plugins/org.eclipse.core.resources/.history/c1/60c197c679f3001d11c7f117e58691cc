@@ -1,0 +1,20 @@
+package Desafios;
+
+import java.util.Scanner;
+
+public class desafioCalculadora {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.print("Ler número 1: ");
+		int numUm = sc.nextInt();
+		System.out.print("Ler número 2: ");
+		int numDois = sc.nextInt();
+		System.out.print("Qual operação? ");
+		char operacao = sc.nextLine();
+		
+		sc.close();
+	}
+
+}

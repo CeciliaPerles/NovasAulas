@@ -1,0 +1,15 @@
+package projetos_aulas_arrays;
+
+public class NovoArray {
+
+	public static void main(String[] args) {
+		/*ManipulandoArrays.imprimirArray(null);*/
+		
+		int[] vetorUm = {2, 5, 8};
+
+		
+		
+
+	}
+
+}

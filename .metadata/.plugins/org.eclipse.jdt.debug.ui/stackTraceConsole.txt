@@ -1,0 +1,5 @@
+if (coposLavados == 1) {
+				System.out.println("Lavei " + (coposLavados) + " copo.");
+			} else {
+			System.out.println("Lavei " + (coposLavados) + " copos.");}
+			}

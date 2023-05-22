@@ -1,0 +1,14 @@
+package Desafios;
+
+import javax.swing.JOptionPane;
+
+public class desafioIf {
+
+	public static void main(String[] args) {
+
+		String valor = JOptionPane.showInputDialog("Digite...");
+		
+
+	}
+
+}

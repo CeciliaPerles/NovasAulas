@@ -1,0 +1,25 @@
+package Desafios;
+
+import javax.swing.JOptionPane;
+
+public class DesafioSemana {
+
+	public static void main(String[] args) {
+
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Digite o número");
+		String dia = sc.ne
+		
+		int numero = Integer.parseInt(valor);
+		
+		if(numero%2 ==0) {
+			System.out.println("Par");
+			}
+			else {
+				System.out.println("Ímpar");	
+			}
+		
+
+	}
+
+}
