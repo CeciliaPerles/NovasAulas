@@ -10,9 +10,14 @@ public class DesafioSemana {
 
 		Scanner sc = new Scanner(System.in);
 				
+		Boolean continua = true;
+		
+		while(continua) {
+		
 		System.out.print("Digite o dia: ");
 		String dia = sc.next();
-			
+		
+		continua = false;		
 		if("Domingo".equalsIgnoreCase(dia)) 
 		{
 			System.out.println("1");
@@ -36,10 +41,12 @@ public class DesafioSemana {
 				System.out.println("7");	
 			}
 			else {
-				System.out.println("Digite dia válido: ");		
+				continua = true;
+		//		System.out.println("Digite dia válido: ");	
+			//	dia = sc.next();
 				
 					}
-					
+		}		
 						
 				
 			
